@@ -80,7 +80,7 @@ A full-featured **Interview Platform** designed for seamless technical interview
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/interview-platform.git
+git clone https://github.com/BhaskarChhabra/Code-Sync.git
 cd interview-platform
 
 # Install dependencies
